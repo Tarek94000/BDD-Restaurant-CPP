@@ -61,7 +61,7 @@ LIMIT 5;
 ## Installation
 1. Clonez le dépôt :
 ```bash
-git clone https://github.com/ton-profil/BDD-Restaurant.git
+git clone https://github.com/ton-profil/BDD-Restaurant-CPP.git
 ```
 2. Importez les scripts dans MySQL Workbench.
 3. Exécutez les fichiers SQL dans l'ordre suivant :
