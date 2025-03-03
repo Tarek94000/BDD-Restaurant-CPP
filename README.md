@@ -26,7 +26,8 @@ Le modèle conceptuel de données (E/A) a été conçu en respectant la normalis
 📂 **Docs/** *(Dossier contenant la documentation)*
 
 - `restaurant_cpp.pdf` : Rapport détaillé expliquant la conception et la mise en place de la base de données.
-- `Schema_ER.png` : Schéma relationnel de la base de données (ajouter une image si possible).
+- `Schema.png` : Schéma relationnel de la base de données.
+- `Schema.loo` : Schéma relationnel de la base de données sur looping.
 
 ## Technologies Utilisées
 - **MySQL Workbench** : Conception et implémentation.
